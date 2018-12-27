@@ -1,4 +1,4 @@
 { 
-  "description": "Vowpal Wabbit实战"
+  "description": "Vowpal Wabbit实战",
   "plugins": ["mathjax"] 
 }
