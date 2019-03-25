@@ -11,6 +11,7 @@ Vowpal Wabbit是一个机器学习系统。
 基础上还支持python等高级语言，以此来保证其易用性。该思路和自己的技术栈完全吻合。
 
 
+
 ## 参考文献
 1. [Vowpal Wabbit Wiki][vw-wiki]
 2. [Vowpal Wabbit源码][vw-src-8.5]
